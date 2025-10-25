@@ -38,36 +38,9 @@ My-portfolio/
 └── README.md
 
 yaml
-Copy code
-
 ---
 
-## ⚙️ Installation & Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ArmaanHR31/My-protfolio.git
-Navigate to the project folder
-
-bash
-Copy code
-cd My-protfolio
-Open the project
-
-Simply open index.html in your browser, or
-
-Use Live Server if you’re using VS Code.
-
-🌍 Live Demo
-🔗 View Portfolio
-
-📸 Screenshots
-(You can add screenshots of your website here)
-
-Example:
-
-scss
-Copy code
 ![Portfolio Screenshot](assets/images/screenshot.png)
 🤝 Connect With Me
 GitHub: @ArmaanHR31
