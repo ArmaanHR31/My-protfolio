@@ -21,9 +21,6 @@ It’s designed to help visitors get to know me and explore my work easily.
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-
-*(If you used any frameworks like React, TailwindCSS, or Bootstrap, list them here too.)*
-
 ---
 
 ## 📂 Folder Structure
@@ -36,36 +33,14 @@ My-portfolio/
 │ ├── images/
 │ └── icons/
 └── README.md
-
-yaml
 ---
-
-
 ![Portfolio Screenshot](assets/images/screenshot.png)
 🤝 Connect With Me
 GitHub: @ArmaanHR31
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: ArmaanHR31
 
-Email: yourname@example.com
+Email: armaanhr31@example.com
 
 ⭐ If you like this project, don’t forget to star the repo!
-
-yaml
-Copy code
-
 ---
-
-Would you like me to **personalize this** with your real deployment link (if it’s live) and real tech stack (like Tailwind, React, or plain HTML/CSS/JS)? I can edit it instantly to match your exact project.
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
